@@ -1,7 +1,3 @@
-@use "./partials/setup";
-@use "./partials/variables";
-@use "./partials/typography";
-
 // COLOURS:
 // primary text (blue): #084b6d;
 // secondary (light blue): #f4fcff;
@@ -19,3 +15,24 @@
 // h3: 54px;
 // h4: 34px;
 // h5: 14px;
+
+
+// Colours
+
+$primary: #084b6d;
+$secondary: #f4fcff;
+$tertiary: #f8fbf3; 
+$quaternary: #fff5f5; 
+$quinary: #ffd698;
+$pastelBlue: #d3f0f9;
+$solidWhite: white;
+
+// Font Families
+
+$headingFont: "Young Serif";
+$bodyFont: "Jakarta Sans";
+
+
+// Font Size
+
+$baseFontSize: 1rem;
